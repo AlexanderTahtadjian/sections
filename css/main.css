@@ -10,6 +10,8 @@ img {
 
 p {
   font-weight: bold;
+  display: inline-block;
+  text-align: left;
 }
 
 div a {

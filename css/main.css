@@ -1,6 +1,6 @@
 html {
   background-color: #eee9de;
-  font-family: "Lato", sans-serif;
+  font-family: Lato, sans-serif;
   line-height: 1.5;
   box-sizing: border-box;
 }
@@ -36,7 +36,7 @@ div {
 div a {
   color: #333;
   font-weight: normal;
-  font-family: "Lato", sans-serif;
+  font-family: Lato, sans-serif;
   text-decoration: none;
   display: inline-block;
   margin: 1.5rem;

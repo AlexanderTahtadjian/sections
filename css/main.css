@@ -9,6 +9,10 @@ html {
   box-sizing: inherit;
 }
 
+img {
+  max-width: 100%;
+}
+
 div img {
   padding: 1em 2em;
   vertical-align: middle;

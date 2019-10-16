@@ -39,3 +39,7 @@ div a {
 a:hover {
   background-color: #666;
 }
+
+body {
+  text-align: center;
+}

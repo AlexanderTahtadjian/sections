@@ -23,7 +23,7 @@ section {
   padding: 2em 0;
 }
 
-div img {
+.box-1 {
   padding: 0 1em;
   vertical-align: middle;
 }
@@ -74,4 +74,9 @@ a:hover {
   display: inline-block;
   max-width: 25em;
   text-align: left;
+}
+
+.box-2 {
+  padding: 0 1em;
+  vertical-align: middle;
 }

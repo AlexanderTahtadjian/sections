@@ -10,9 +10,8 @@ html {
 }
 
 img {
-  max-width: 100%;
-  display: inline-block;
-  width: inherit;
+  width: 100%;
+  display: block;
 }
 
 div img {
@@ -63,5 +62,5 @@ a:hover {
 
 body {
   text-align: center;
-  margin: 1.5rem;
+  margin: 0;
 }

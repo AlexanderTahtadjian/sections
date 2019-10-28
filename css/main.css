@@ -30,7 +30,7 @@ section {
 }
 
 h2 {
-  margin: 0;
+  margin: 0 0 1.5rem 0;
   text-align: left;
 }
 
@@ -38,14 +38,12 @@ p {
   font-weight: normal;
   display: inline-block;
   text-align: left;
-  margin: 1.5rem 0;
+  margin: 0 0 1.5rem 0;
 }
 
 div {
   display: inline-block;
   vertical-align: middle;
-  max-width: inherit;
-  min-width: inherit;
 }
 
 div a {
@@ -55,7 +53,6 @@ div a {
   text-decoration: none;
   display: inline-block;
   margin: 0;
-  max-width: 20em;
   padding: .4em .5em .75em;
   background-color: #eee9de;
   border-radius: 10px;
@@ -78,6 +75,6 @@ a:hover {
 }
 
 .box-2 {
-  padding: 0 1em;
+  padding:  1em;
   vertical-align: middle;
 }
